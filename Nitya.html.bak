@@ -1,0 +1,19 @@
+<HTML>
+<HEAD>
+<TITLE>External Style sheet</TITLE>
+<!-- <Style TYPE="text/css">
+
+P{
+	font-family:"Times New Roman";
+	color:red;}
+</Style>
+
+<LINK REL="StyleSheet" HREF="style.css" TYPE="text/css">
+-->
+</HEAD>
+<BODY>
+<P Style ="font-family:Arial;color:green";>My Name is Shanvi Ranjan</p>
+
+</BODY>
+</HTML>
+
